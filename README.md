@@ -68,7 +68,7 @@ mAI relies on a modern stack for performance and scalability:
 
 * **Core Models**:
 
-  * **User**: manages profiles, learning history, and preferences.
+  * **User**: learning history, and preferences.
   * **ChatSession**: stores conversations and context for continuity.
   * **Course**: links content to user questions for course-aware responses.
 
