@@ -151,7 +151,7 @@ Set up MongoDB:
 Run the backend server:
 
 ```bash
-python app.py
+python main.py
 ```
 
 Access the platform at `http://localhost:5000`.
@@ -162,4 +162,4 @@ Access the platform at `http://localhost:5000`.
 
 mAI is an innovative AI tutoring system that brings personalized, accessible, and interactive learning to students worldwide. By integrating seamlessly into **Mindexa**, it strengthens the mission of empowering education with cutting-edge AI while remaining free, scalable, and student-first.
 
-Made with ❤️ by the **Mindexa Team**
+Made by the **Mindexa Team**
