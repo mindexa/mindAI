@@ -1,16 +1,16 @@
 <p align="center">
-  <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/a2a89ad3-5c97-4db6-a27e-1947c0c63740" />
+  <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c3760719-d3d2-439d-96cd-03b686987873" />
 </p>
 
-# mAI - The Intelligent Learning Assistant
+# mindAI - The Intelligent Learning Assistant
 
-mAI is an AI-powered tutoring solution designed to support students in their studies by combining conversational AI, interactive learning modules, and real-time knowledge assistance. Integrated within **Mindexa**, mAI enhances the educational experience with adaptive learning, multilingual support, and a personalized chat-based interface similar to ChatGPT.
+mindAI is an AI-powered tutoring solution designed to support students in their studies by combining conversational AI, interactive learning modules, and real-time knowledge assistance. Integrated within **Mindexa**, mAI enhances the educational experience with adaptive learning, multilingual support, and a personalized chat-based interface similar to ChatGPT.
 
 ---
 
-## Why mAI?
+## Why mindAI?
 
-Our AI tutor, **mAI**, represents the vision of making education accessible, engaging, and adaptive. The name reflects its dual nature:
+Our AI tutor, **mindAI**, represents the vision of making education accessible, engaging, and adaptive. The name reflects its dual nature:
 
 * **Mind**: connected to Mindexa’s mission of empowering minds.
 * **AI**: an intelligent companion that learns and evolves alongside students.
@@ -22,7 +22,7 @@ Much like a mentor who adapts to each learner’s pace, mAI personalizes the edu
 ## Table of Contents
 
 * [mAI - The Intelligent Learning Assistant](#mai---the-intelligent-learning-assistant)
-* [Why mAI?](#why-mai)
+* [Why mindAI?](#why-mindai)
 * [Introduction](#introduction)
 * [System Architecture](#system-architecture)
 * [Implemented Features](#implemented-features)
@@ -40,7 +40,7 @@ Much like a mentor who adapts to each learner’s pace, mAI personalizes the edu
 
 ## Introduction
 
-mAI’s purpose is to transform digital education by focusing on four major pillars:
+mindAI’s purpose is to transform digital education by focusing on four major pillars:
 
 * **Conversational Tutoring**: Enable students to ask questions naturally and receive adaptive, step-by-step answers.
 * **Personalized Learning Paths**: Suggest relevant content, courses, or practice based on the learner’s progress.
@@ -126,8 +126,8 @@ mAI relies on a modern stack for performance and scalability:
 Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/mindexa/mAI.git
-cd mAI
+git clone https://github.com/mindexa/mindAI.git
+cd mindAI
 ```
 
 Create virtual environment
@@ -160,6 +160,6 @@ Access the platform at `http://localhost:5000`.
 
 ## Conclusion
 
-mAI is an innovative AI tutoring system that brings personalized, accessible, and interactive learning to students worldwide. By integrating seamlessly into **Mindexa**, it strengthens the mission of empowering education with cutting-edge AI while remaining free, scalable, and student-first.
+mindAI is an innovative AI tutoring system that brings personalized, accessible, and interactive learning to students worldwide. By integrating seamlessly into **Mindexa**, it strengthens the mission of empowering education with cutting-edge AI while remaining free, scalable, and student-first.
 
 Made by the **Mindexa Team**
