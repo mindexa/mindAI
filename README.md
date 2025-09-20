@@ -21,7 +21,7 @@ Much like a mentor who adapts to each learner’s pace, mAI personalizes the edu
 
 ## Table of Contents
 
-* [mAI - The Intelligent Learning Assistant](#mai---the-intelligent-learning-assistant)
+* [mindAI - The Intelligent Learning Assistant](#mindai---the-intelligent-learning-assistant)
 * [Why mindAI?](#why-mindai)
 * [Introduction](#introduction)
 * [System Architecture](#system-architecture)
